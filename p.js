@@ -1,0 +1,3 @@
+function palindrome(){
+	alert("hello");
+}
